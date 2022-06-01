@@ -5,7 +5,23 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=white&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Technology+Student;Data+Scientist+by+Day.;Web+Developer+by+Night.;" alt="Headline" />
 </div>
 <hr>
-<h2>About Me: </h2>
+<h2>About Me : </h2>
+```js
+import SoftwareDeveloper from 'thompsonemerson';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Emerson Thompson';
+  title    = 'Software Engineer';
+  company  = 'Pipoca Digital | Remote';
+  location = 'Fortaleza, CE';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+}
+```
 <!--
 **AarushJuneja/AarushJuneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
