@@ -8,24 +8,24 @@
 <h2>About Me : </h2>
 
 ```js
-import DataScientist from 'AarushJuneja';
+import DataScientist, WebDeveloper from 'AarushJuneja';
 
 class Bio extends DataScientist {
   name     = 'Aarush Juneja';
   title    = 'Data Scientist';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+class Skills extends DataScientist {
+  languages  = ['Python'];
+  databases  = ['MySQL', 'SQLite'];
+  libraries = ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Sklearn", "Scipy", "XGBoost"];
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
+
+class Skills Extends WebDeveloper {
+  languages = ["HTML" , "CSS", "JavaScript"];
+  frameworks = ["Node.js", "Express.js", "Flask", "Django", "MongoDB", "MySQL"];
+}
+
 ```
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
