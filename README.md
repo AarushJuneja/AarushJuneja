@@ -6,6 +6,7 @@
 </div>
 <hr>
 <h2>About Me : </h2>
+
 ```js
 import DataScientist from 'AarushJuneja';
 
@@ -21,4 +22,10 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
+```
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
