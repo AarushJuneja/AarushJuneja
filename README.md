@@ -19,7 +19,6 @@ class Skills extends DataScientist {
   languages  = ['Python'];
   databases  = ['MySQL', 'SQLite'];
   libraries = ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Sklearn", "Scipy", "XGBoost"];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
 
 class Skills Extends WebDeveloper {
