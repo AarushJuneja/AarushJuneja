@@ -6,12 +6,12 @@
 </div>
 <hr>
 <h2>About Me : </h2>
-```js
-import SoftwareDeveloper from 'thompsonemerson';
+js
+import DataScientist from 'AarushJuneja';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
+class Bio extends DataScientist {
+  name     = 'Aarush Juneja';
+  title    = 'Data Scientist';
   company  = 'Pipoca Digital | Remote';
   location = 'Fortaleza, CE';
 }
@@ -21,7 +21,7 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
-```
+
 <!--
 **AarushJuneja/AarushJuneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
