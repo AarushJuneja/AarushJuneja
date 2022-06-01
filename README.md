@@ -21,7 +21,7 @@ class Skills extends DataScientist {
   libraries = ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Sklearn", "Scipy", "XGBoost"];
 }
 
-class Skills Extends WebDeveloper {
+class Skills extends WebDeveloper {
   languages = ["HTML" , "CSS", "JavaScript"];
   frameworks = ["Node.js", "Express.js", "Flask", "Django", "MongoDB", "MySQL"];
 }
