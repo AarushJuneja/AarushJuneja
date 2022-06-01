@@ -2,7 +2,7 @@
 <hr>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=white&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Technology+Student+.;Data+Scientist+by+Day+.;Web+Developer+by+Night+.;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=white&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Technology+Student;Data+Scientist+by+Day+.;Web+Developer+by+Night+.;" alt="Headline" />
 </div>
 
 <!--
