@@ -4,7 +4,8 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=white&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Technology+Student;Data+Scientist+by+Day.;Web+Developer+by+Night.;" alt="Headline" />
 </div>
-
+<hr>
+<h2>About Me: </h2>
 <!--
 **AarushJuneja/AarushJuneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
