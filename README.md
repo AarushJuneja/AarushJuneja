@@ -28,3 +28,9 @@ class Skills extends WebDeveloper {
 
 ```
 
+<hr>
+
+<a align= "center" href="https://github.com/avinesh2101">
+<img align="left" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AarushJuneja&theme=radical">
+<!-- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
+<img align="right" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=AarushJuneja&count_private=true&theme=radical&show_icons=true" />
