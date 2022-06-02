@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aarush Juneja & I ❤️ to make stuff happen.</h1>
 <hr>
-<p > <img src="https://komarev.com/ghpvc/?username=avinesh2101&label=Profile%20views&color=0e75b6&style=flat" alt="avinesh" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=AarushJuneja&label=Profile%20views&color=0e75b6&style=flat" alt="Aarush" /> </p>
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=white&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Technology+Student;Data+Scientist+by+Day.;Web+Developer+by+Night.;" alt="Headline" />
