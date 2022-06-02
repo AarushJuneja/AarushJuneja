@@ -10,11 +10,6 @@
 ```js
 import DataScientist, WebDeveloper from 'AarushJuneja';
 
-class Bio extends DataScientist {
-  name     = 'Aarush Juneja';
-  title    = 'Data Scientist';
-}
-
 class Skills extends DataScientist {
   languages  = ['Python'];
   databases  = ['MySQL', 'SQLite'];
