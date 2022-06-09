@@ -1,12 +1,12 @@
 <h1>Hi, I'm Aarush Juneja & I ❤️ to make stuff happen.</h1>
 <p > <img src="https://komarev.com/ghpvc/?username=AarushJuneja&label=Profile%20views&color=0e75b6&style=flat" alt="Aarush" /> </p>
 
-<hr>
+![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=white&size=32&center=true&vCenter=true&width=600&height=50&lines=Information+Technology+Student;Data+Scientist+by+Day.;Web+Developer+by+Night.;" alt="Headline" />
 </div>
-<hr>
+![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 <h2>About Me : </h2>
 
 ```js
